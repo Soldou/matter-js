@@ -2,7 +2,6 @@
   "_from": "matter-js",
   "_id": "matter-js@0.18.0",
   "_inBundle": false,
-  "_integrity": "sha512-/ZVem4WygUnbmo/iE4oHZpZS97btfBtYy5Iwn1396vUZU7YhgVEN8J4UWwfZwY1ZqoTYlPgjvSw9WXauuXL0mg==",
   "_location": "/matter-js",
   "_phantomChildren": {},
   "_requested": {
@@ -19,18 +18,6 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/matter-js/-/matter-js-0.18.0.tgz",
-  "_shasum": "083ced04eb6768f7664dc7ca8948a10e46ad3ed6",
-  "_spec": "matter-js",
-  "_where": "C:\\Users\\computer\\HeadSoccer-Server",
-  "author": {
-    "name": "Liam Brummitt",
-    "email": "liam@brm.io",
-    "url": "http://brm.io/"
-  },
-  "bugs": {
-    "url": "https://github.com/liabru/matter-js/issues"
-  },
   "bundleDependencies": false,
   "deprecated": false,
   "description": "a 2D rigid body physics engine for the web",
@@ -73,7 +60,7 @@
   "name": "matter-js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liabru/matter-js.git"
+    "url": "git+https://github.com/Soldou/matter-js.git"
   },
   "scripts": {
     "benchmark": "EXAMPLES=stress3 npm run test-node",
