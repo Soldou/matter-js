@@ -1,23 +1,4 @@
 {
-  "_from": "matter-js",
-  "_id": "matter-js@0.18.0",
-  "_inBundle": false,
-  "_location": "/matter-js",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "matter-js",
-    "name": "matter-js",
-    "escapedName": "matter-js",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
   "bundleDependencies": false,
   "deprecated": false,
   "description": "a 2D rigid body physics engine for the web",
@@ -45,7 +26,6 @@
     "build",
     "CHANGELOG.md"
   ],
-  "homepage": "http://brm.io/matter-js/",
   "keywords": [
     "javascript",
     "canvas",
